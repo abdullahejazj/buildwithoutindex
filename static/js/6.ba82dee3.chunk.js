@@ -1,2 +1,0 @@
-(this["webpackJsonpax-movies"]=this["webpackJsonpax-movies"]||[]).push([[6],{108:function(e,t,s){"use strict";s.r(t),s.d(t,"default",(function(){return b}));var c=s(0),o=s(2),i=s(45),a=s(38),n=s(35),r=s(11),u=s(1);function b(){var e=Object(o.g)().category,t="movies"===e;return Object(c.useEffect)((function(){Object(r.a)()}),[e]),Object(u.jsxs)(a.a,{title:t?"Movies":"TV Shows",children:[Object(u.jsx)(i.b,{category:t?"Movies":"TV Shows"}),Object(u.jsx)(n.a,{category:t?"movie":"tv"})]})}}}]);
-//# sourceMappingURL=6.ba82dee3.chunk.js.map
